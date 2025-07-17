@@ -51,7 +51,7 @@ A Machine Learning web application that predicts the probability of forest fires
 # 🙋‍♂️ Author
 - **Juhil Kikani**
 - [LinkedIn](https://www.linkedin.com/in/juhilkikani)
-- Email: [juhilpatel100@gmail.com](mailto:juhilpatel100@gmail.com)
+- Email: [juhilkikani07@gmail.com](mailto:juhilkikani07@gmail.com)
 
 # ⭐️ Give it a Star
   If you liked this project, don’t forget to ⭐️ the repo!
